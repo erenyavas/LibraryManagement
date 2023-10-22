@@ -1,6 +1,6 @@
 # Library Management System
 
-This C# application provides a system for managing a school library. This document explains the steps required to run and use the project.
+This C# application provides a system for managing a school library. This document explains the steps required to run, features and functionalities the project.
 
 ## Getting Started
 
@@ -16,20 +16,20 @@ Replace `"your_password"` with your MySQL database password (Default password fo
 
 For MySQL database service, you can use XAMPP.
 
-**Setting up XAMPP for Library Management System**
-
-1. **Download XAMPP**:
-   - Visit [XAMPP website](https://www.apachefriends.org/index.html).
-   - Download and install XAMPP.
-
-2. **Start Services**:
-   - Launch XAMPP Control Panel.
-   - Start Apache and MySQL.
-
-3. **Database Setup**:
-   - Access `http://localhost/phpmyadmin`.
-   - Create a "library" database.
-   - Import SQL script.
+   **Setting up XAMPP for Library Management System**
+   
+   1. **Download XAMPP**:
+      - Visit [XAMPP website](https://www.apachefriends.org/index.html).
+      - Download and install XAMPP.
+   
+   2. **Start Services**:
+      - Launch XAMPP Control Panel.
+      - Start Apache and MySQL.
+   
+   3. **Database Setup**:
+      - Access `http://localhost/phpmyadmin`.
+      - Create a "library" database.
+      - Import SQL script.
 
 2. Open the solution in Visual Studio. Build the project to make sure all the dependencies are resolved.
 
@@ -37,15 +37,15 @@ For MySQL database service, you can use XAMPP.
 
 4. Once the project is built, you can run it using Visual Studio. The main form, `Dashboard` will be displayed, and you can start managing the library.
 
-## Using the Panel
+## Features and Fuctionalities
 
-The panel provides various features for library management:
+The system provides various features for library management:
 
 1. **Dashboard**: The main interface provides an overview of the library's daily operations. It displays information about the librarian on duty for the day, the date, and time. It also has quick access buttons for various management functions.
 
 2. **Librarian Management**: The application allows librarians to be assigned for daily duties. Librarians' details such as name, student ID, and class can be added, updated, or deleted. It also ensures that there is always a librarian on duty.
 
-3. **Book Details**: You can view detailed information about the books available in the library. This includes the book's title, author, ISBN, publication date, and other relevant details. It helps librarians keep track of the library's book collection.
+3. **Book Details**: You can view detailed information about the books available in the library. This includes the book's title, author, publication date, and other relevant details. It helps librarians keep track of the library's book collection.
 
 4. **Student Management**: The system manages student information, including their name, student ID, class, and the number of books they have checked out. Students can be added, updated, or deleted, ensuring accurate records.
 
@@ -62,6 +62,23 @@ The panel provides various features for library management:
 10. **Database Integration**: The application connects to a MySQL database for data storage and retrieval. This enables the system to maintain an organized and accurate library database.
 
 The Library Management System offers an efficient way to manage a library's daily operations, ensuring that books are properly tracked, students are accountable for their borrowed books, and librarian duties are assigned and maintained. It simplifies the process of book lending, receiving, and maintaining student records.
+
+## Screenshots
+
+Some screenshots from application.
+
+1. Dashboard
+
+   <img alt="Dashboard" height="300" src="https://github.com/erenyavas/LibraryAutomation/assets/69438893/d9de2c65-b294-438a-9670-918642224870">
+
+2. Book Details
+
+   <img alt="Book Details" height="400" src="https://github.com/erenyavas/LibraryAutomation/assets/69438893/aeda73de-89ce-4e59-b5d2-23c751124dfa">
+   
+3. Book Lending 
+
+   <img alt="Book Lending" height="300" src="https://github.com/erenyavas/LibraryAutomation/assets/69438893/f512a0a7-4e4a-4a0c-8b6b-8230afff6149">
+
 
 ## Contributing
 
