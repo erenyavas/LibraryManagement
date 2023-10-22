@@ -1,0 +1,54 @@
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.Properties.Resources.resources
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.csproj.GenerateResource.cache
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.csproj.CoreCompileInputs.cache
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\bin\Debug\LibraryAutomation.exe.config
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\bin\Debug\LibraryAutomation.exe
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\bin\Debug\LibraryAutomation.pdb
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.csproj.CopyComplete
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.exe
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.pdb
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.Dashboard.resources
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.BookDetails.resources
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.Books.resources
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.Librarians.resources
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.LendBook.resources
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.StudentDetails.resources
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.ReceiveBook.resources
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.Students.resources
+C:\Users\eeren\Masaüstü\RKAL Kütüphane Projesi\rkal\obj\Debug\LibraryAutomation.Admin.resources
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Admin.resources
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Dashboard.resources
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.BookDetails.resources
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Books.resources
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Librarians.resources
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.LendBook.resources
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.StudentDetails.resources
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Properties.Resources.resources
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.ReceiveBook.resources
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Students.resources
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.GenerateResource.cache
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CoreCompileInputs.cache
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CopyComplete
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\eeren\Masaüstü\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Admin.resources
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Dashboard.resources
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.BookDetails.resources
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Books.resources
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Librarians.resources
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.LendBook.resources
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.StudentDetails.resources
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.ReceiveBook.resources
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Students.resources
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.GenerateResource.cache
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\eeren\Belgeler\GitHub\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
